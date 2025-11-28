@@ -1,0 +1,61 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports
+report.*.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage
+*.lcov
+
+# Build output
+build
+dist
+tmp
+temp
+
+# Dependency directories
+node_modules
+jspm_packages/
+bower_components/
+
+# Caches
+.npm
+.cache
+.eslintcache
+.stylelintcache
+.cache-loader
+.vite
+.next
+.nuxt
+storybook-static
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Editors
+.DS_Store
+.idea/
+.vscode/
+
+# Package archives
+*.tgz
+
+# Vim/Emacs swap files
+*~
+*.swp
+*.swo
